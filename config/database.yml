@@ -14,8 +14,8 @@ default: &default
   encoding: utf8
   pool: 5
   username: root
-  password:
-  host: localhost
+  password: wadacchiin
+  host: sample.cpmddugstfiv.ap-northeast-1.rds.amazonaws.com
 
 development:
   <<: *default
